@@ -13,6 +13,13 @@ cover: '93C59B02-324F-4F71-B879-6A588E14FAA6.jpeg',
     genre: 'Genre 2',
     pages: 250
   },
+  {
+    cover: 'download (4).jpg',
+    title: 'Book 3',
+    author: 'Author 3',
+    genre: 'Genre 3',
+    pages: 350
+  },
   // Add details of other books here
 ];
 
